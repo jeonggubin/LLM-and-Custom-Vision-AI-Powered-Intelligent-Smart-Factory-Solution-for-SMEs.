@@ -1,5 +1,4 @@
-# sweet-smart-factory
-# 구콩이
+# TEAM: sweet-smart-factory
 
 
 ### 🛠 개발 배경
