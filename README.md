@@ -52,9 +52,9 @@
 | :--- | :--- |
 | **Languages** | C, Python |
 | **Frameworks/ Libraries** | YOLOv5nu, YOLOv8n, YOLO11n, PyTorch, OpenCV, Scikit-learn, Streamlit |
-| **Communication** | Serial(Uart), Wi-Fi |
+| **Communication** | Serial(uart), Wi-Fi |
 | **Database** | MariaDB |
-| **Hardware/OS** | STM32F446, Raspberry Pi 5, Linux (Raspberry Pi OS) |
+| **Hardware/OS** | STM32F446, Servo_Motor(MG996R), Raspberry Pi 5, Linux (Raspberry Pi OS) |
 | **RAG / LLM** | Qwen3:8B, BGE-M3, Ollama |
 
 ---
