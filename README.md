@@ -69,7 +69,7 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white" />
 
 <!-- YOLO Series -->
-<img src="https://img.shields.io/badge/YOLOv5-00FFFF?style=flat-square&logo=PyTorch&logoColor=black" /> <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=PyTorch&logoColor=black" /> <img src="https://img.shields.io/badge/YOLO11-00FFFF?style=flat-square&logo=PyTorch&logoColor=black" />
+<img src="https://img.shields.io/badge/YOLOv5nu-00FFFF?style=flat-square&logo=PyTorch&logoColor=black" /> <img src="https://img.shields.io/badge/YOLOv8n-00FFFF?style=flat-square&logo=PyTorch&logoColor=black" /> <img src="https://img.shields.io/badge/YOLO11n-00FFFF?style=flat-square&logo=PyTorch&logoColor=black" />
 
 <!-- RAG / LLM -->
 <img src="https://img.shields.io/badge/Qwen3--8B-551A8B?style=flat-square&logo=render&logoColor=white" /> <img src="https://img.shields.io/badge/BGE--M3-4B0082?style=flat-square&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=Ollama&logoColor=white" />
