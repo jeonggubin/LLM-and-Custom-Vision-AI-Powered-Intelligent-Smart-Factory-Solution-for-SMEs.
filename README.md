@@ -104,7 +104,9 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" style="padding: 10px;">
-      <img src="https://github.com/user-attachments/assets/7d4b764b-d892-4b4c-84dd-112dde4ca802" width="100%" alt="공정 센서 데이터 ML 예측 파이프라인">
+      <a href="https://github.com/jeonggubin/Customized-Product-Quality-Analysis-Service/blob/main/images/%EB%B6%88%EB%9F%89%EC%98%88%EC%B8%A1%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8.jpg">
+        <img src="https://github.com/user-attachments/assets/7d4b764b-d892-4b4c-84dd-112dde4ca802" width="100%" alt="공정 센서 데이터 ML 예측 파이프라인">
+      </a>
     </td>
   </tr>
   <tr>
@@ -124,10 +126,14 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" colspan="3" width="50%" style="padding: 5px; valign: top;">
-      <img src="https://github.com/user-attachments/assets/b6791ec4-30ed-48bb-b55a-63b7ac84e716" width="100%" alt="YOLO 기반 객체 탐지 화면">
+      <a href="https://github.com/jeonggubin/Customized-Product-Quality-Analysis-Service/blob/main/images/%EB%B9%84%EC%A0%84%EB%AA%A8%EB%8D%B81.jpg">
+        <img src="https://github.com/user-attachments/assets/b6791ec4-30ed-48bb-b55a-63b7ac84e716" width="100%" alt="YOLO 기반 객체 탐지 화면">
+      </a>
     </td>
     <td align="center" colspan="3" width="50%" style="padding: 5px; valign: top;">
-      <img src="https://github.com/user-attachments/assets/3e26b5f4-b2ca-457b-86f1-77c6d680af41" width="100%" alt="경량 백본 기반 외관 분류 화면">
+      <a href="https://github.com/jeonggubin/Customized-Product-Quality-Analysis-Service/blob/main/images/%EB%B9%84%EC%A0%84%EB%AA%A8%EB%8D%B82.jpg">
+        <img src="https://github.com/user-attachments/assets/3e26b5f4-b2ca-457b-86f1-77c6d680af41" width="100%" alt="경량 백본 기반 외관 분류 화면">
+      </a>
     </td>
   </tr>
   <tr>
@@ -141,13 +147,19 @@
 
   <tr>
     <td align="center" colspan="2" width="33.3%" style="padding: 5px; valign: top;">
-      <img src="https://github.com/user-attachments/assets/d54de863-3fc4-4944-bece-728bade27881" width="100%" alt="배경흰색 정상">
+      <a href="https://github.com/jeonggubin/Customized-Product-Quality-Analysis-Service/blob/main/images/nodefects.png">
+        <img src="https://github.com/user-attachments/assets/d54de863-3fc4-4944-bece-728bade27881" width="100%" alt="배경흰색 정상">
+      </a>
     </td>
     <td align="center" colspan="2" width="33.3%" style="padding: 5px; valign: top;">
-      <img src="https://github.com/user-attachments/assets/162d2bb2-ba5a-4426-abf5-c25bfebc255a" width="100%" alt="크랙흰색">
+      <a href="https://github.com/jeonggubin/Customized-Product-Quality-Analysis-Service/blob/main/images/crack.png">
+        <img src="https://github.com/user-attachments/assets/162d2bb2-ba5a-4426-abf5-c25bfebc255a" width="100%" alt="크랙흰색">
+      </a>
     </td>
     <td align="center" colspan="2" width="33.3%" style="padding: 5px; valign: top;">
-      <img src="https://github.com/user-attachments/assets/b344d64e-8252-4c5e-960d-42c71ad2e3b1" width="100%" alt="크랙불름흰색">
+      <a href="https://github.com/jeonggubin/Customized-Product-Quality-Analysis-Service/blob/main/images/crack_bloom.png">
+        <img src="https://github.com/user-attachments/assets/b344d64e-8252-4c5e-960d-42c71ad2e3b1" width="100%" alt="크랙불름흰색">
+      </a>
     </td>
   </tr>
   <tr>
@@ -167,7 +179,9 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" style="padding: 10px;">
-      <img src="https://github.com/user-attachments/assets/110ef421-9b9d-42e8-86c7-73d6b90ea3df" width="100%" alt="RAG 기반 AI 챗봇 대시보드 화면">
+      <a href="https://github.com/jeonggubin/Customized-Product-Quality-Analysis-Service/blob/main/images/ai%20%EC%B1%97%EB%B4%87.jpg">
+        <img src="https://github.com/user-attachments/assets/110ef421-9b9d-42e8-86c7-73d6b90ea3df" width="100%" alt="RAG 기반 AI 챗봇 대시보드 화면">
+      </a>
     </td>
   </tr>
   <tr>
@@ -190,10 +204,14 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%" style="padding: 5px; valign: top;">
-      <img src="https://github.com/user-attachments/assets/2976970a-066d-4674-a5d3-0c6c8642e1e8" width="100%" alt="하드웨어 회로도">
+      <a href="https://github.com/jeonggubin/Customized-Product-Quality-Analysis-Service/blob/main/images/%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4%ED%9A%8C%EB%A1%9C%EB%8F%84.png">
+        <img src="https://github.com/user-attachments/assets/2976970a-066d-4674-a5d3-0c6c8642e1e8" width="100%" alt="하드웨어 회로도">
+      </a>
     </td>
     <td align="center" width="50%" style="padding: 5px; valign: top;">
-      <img src="https://github.com/user-attachments/assets/e1052976-064c-4929-85be-648b9b3fa6ee" width="100%" alt="하드웨어 핀맵">
+      <a href="https://github.com/jeonggubin/Customized-Product-Quality-Analysis-Service/blob/main/images/%ED%95%80%EB%A7%B5.png">
+        <img src="https://github.com/user-attachments/assets/e1052976-064c-4929-85be-648b9b3fa6ee" width="100%" alt="하드웨어 핀맵">
+      </a>
     </td>
   </tr>
   <tr>
@@ -207,10 +225,14 @@
 
   <tr>
     <td align="center" width="50%" style="padding: 5px; valign: top;">
-      <img src="https://github.com/user-attachments/assets/18f54fc9-be91-43c1-a32e-caf7bf6fe048" width="100%" alt="DB 스키마">
+      <a href="https://github.com/jeonggubin/Customized-Product-Quality-Analysis-Service/blob/main/images/db%EC%8A%A4%ED%82%A4%EB%A7%88.png">
+        <img src="https://github.com/user-attachments/assets/18f54fc9-be91-43c1-a32e-caf7bf6fe048" width="100%" alt="DB 스키마">
+      </a>
     </td>
     <td align="center" width="50%" style="padding: 5px; valign: top;">
-      <img src="https://github.com/user-attachments/assets/3362bc59-9e2f-4f76-83ce-1cd049c92764" width="100%" alt="라인별 마리아DB 데이터">
+      <a href="https://github.com/jeonggubin/Customized-Product-Quality-Analysis-Service/blob/main/images/%EB%9D%BC%EC%9D%B8%EB%B3%84%EB%A7%88%EB%A6%AC%EC%95%84db.png">
+        <img src="https://github.com/user-attachments/assets/3362bc59-9e2f-4f76-83ce-1cd049c92764" width="100%" alt="라인별 마리아DB 데이터">
+      </a>
     </td>
   </tr>
   <tr>
