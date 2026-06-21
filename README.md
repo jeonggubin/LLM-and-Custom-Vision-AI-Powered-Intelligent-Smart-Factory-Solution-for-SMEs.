@@ -252,7 +252,7 @@
 
 
 ## ⚙️ 컨베이어 불량 분류 시스템
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=250&section=header&text=sweet-smart-factory&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+
 
 ---
 
